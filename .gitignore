@@ -1,0 +1,27 @@
+# Dependencies and package-manager cache
+node_modules/
+.pnpm-store/
+.cache/
+
+# Generated extension bundles and WXT types
+.output/
+.wxt/
+coverage/
+*.tsbuildinfo
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.log
+
+# Operating system
+.DS_Store
+
+# Local research and website captures
+references/
+
+# Editor-local settings
+.idea/
+.vscode/

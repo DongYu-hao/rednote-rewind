@@ -1,0 +1,19 @@
+:root {
+  color-scheme: light;
+  font-family: sans-serif;
+  background: #f9f7f2;
+  color: #29241f;
+}
+
+body {
+  width: 280px;
+  margin: 0;
+  padding: 16px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+h1 {
+  margin: 0;
+  font-size: 22px;
+}
