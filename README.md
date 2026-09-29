@@ -1,3 +1,5 @@
+![rednote rewind 年代切换演示](assets/demo.gif)
+
 ## rednote rewind
 
 把小红书网页版带回不同年代的互联网。支持 1985、1995、2000、2005、2010、2015 六种界面，选择 now 返回原站。
