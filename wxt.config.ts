@@ -5,6 +5,7 @@ export default defineConfig({
   publicDir: 'src/assets',
   manifestVersion: 3,
   imports: false,
+  zip: { zipSources: false },
   // Keep the installed directory stable when entering development mode.
   outDirTemplate: '{{browser}}-mv{{manifestVersion}}',
   webExt: { disabled: true },
